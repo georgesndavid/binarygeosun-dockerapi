@@ -1,0 +1,14 @@
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\bin\Debug\netcoreapp2.1\DockerAPI.deps.json
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\bin\Debug\netcoreapp2.1\DockerAPI.runtimeconfig.json
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\bin\Debug\netcoreapp2.1\DockerAPI.runtimeconfig.dev.json
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\bin\Debug\netcoreapp2.1\DockerAPI.dll
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\bin\Debug\netcoreapp2.1\DockerAPI.pdb
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.csprojAssemblyReference.cache
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.csproj.CoreCompileInputs.cache
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.RazorAssemblyInfo.cache
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.RazorAssemblyInfo.cs
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.AssemblyInfoInputs.cache
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.AssemblyInfo.cs
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.RazorTargetAssemblyInfo.cache
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.dll
+E:\Projects\DOTNETMICROSERVICES\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.pdb
