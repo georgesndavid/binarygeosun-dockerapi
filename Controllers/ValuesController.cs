@@ -14,7 +14,7 @@ namespace DockerAPI.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "Values1", "Values2" };
+            return new string[] { "Values_updated", "Values2_Updated" };
         }
 
         // GET api/values/5
